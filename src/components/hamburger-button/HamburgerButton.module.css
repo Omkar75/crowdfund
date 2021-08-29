@@ -1,0 +1,11 @@
+.hamburger {
+  background: transparent;
+  border: none;
+}
+
+
+@media (min-width: 700px) {
+  .hamburger {
+    display: none;
+  }
+}
